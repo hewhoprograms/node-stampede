@@ -1,5 +1,3 @@
-import { Image } from 'next/image'
-
 # 🃏 Nodetham City  
 *Welcome to the dark side of Node!*
 
