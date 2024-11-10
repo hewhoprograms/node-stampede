@@ -3,10 +3,6 @@ import { Image } from 'next/image'
 # 🃏 Nodetham City  
 *Welcome to the dark side of Node!*
 
-<p align="center">
-  <Image src="/joker-gotham-theme-banner.jpg" alt="Nodetham City" width="70%" />
-</p>
-
 Are you a fan of Node.js, crazy enough to dive into Gotham's underworld of code? Nodetham City brings you a collection of Node.js projects, each with its own twist. **Enter, if you dare.**
 
 ## Projects  
